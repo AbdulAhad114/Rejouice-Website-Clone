@@ -2,8 +2,6 @@
 
 This project is a clone of the [Rejouice](https://www.rejouice.com/) website, built using HTML, CSS, JavaScript, and GSAP for animations. It replicates the original website's interactive features, providing an opportunity to practice advanced web development and animation techniques.
 
-![Project Preview](./path-to-your-screenshot)
-
 ## Table of Contents
 
 - [How to Run the Project](#how-to-run-the-project)
